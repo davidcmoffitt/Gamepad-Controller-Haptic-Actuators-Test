@@ -10,7 +10,7 @@ The Gamepad Controller Haptic Actuators Test comes with the following features:
 - Open-source, transparent and safe for user
 - Works with most gamepad controllers
 ### How to Use
-To use the Gamepad Controller Haptic Actuators Test, simply visit the [working URL](https://gamepad-controller-haptic-actuators-test.netlify.app/) and follow the on-screen instructions. You will need a gamepad controller to experience the haptic feedback.
+To use the Gamepad Controller Haptic Actuators Test, simply visit the [working URL](https://gamepadtest.com/gamepad-controller-haptic-actuators-test/) and follow the on-screen instructions. You will need a gamepad controller to experience the haptic feedback.
 
 ## Technologies Used
 The Gamepad Controller Haptic Actuators Test is built using HTML, JavaScript, and CSS, making it easily accessible and customizable for developers.
